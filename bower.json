@@ -1,0 +1,32 @@
+{
+  "name": "dynodirection",
+  "main": "jquery.dynodirection.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/siavash-malekpour/jquery.dynodirection",
+  "authors": [
+    "siavash <siavash.malekpour@gmail.com>"
+  ],
+  "description": "RTL/LTR aware inputs",
+  "keywords": [
+    "bidi",
+    "rtl",
+    "farsi",
+    "persian",
+    "arabic",
+    "hebrew",
+    "keyboard",
+    "input",
+    "textarea"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
