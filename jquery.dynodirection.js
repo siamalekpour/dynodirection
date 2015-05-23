@@ -47,7 +47,7 @@
 
         if( typeof options == 'string'){
             var plugin = this.data('dynodirection');
-            if(plugin) plugin[options].apply(plugin, Array.prototype.slice.call( arguments, 1 ) )
+            if(plugin) plugin[options].apply(plugin, Array.prototype.slice.call( arguments, 1 ) );
             return this
         }
 
