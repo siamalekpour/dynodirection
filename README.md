@@ -18,7 +18,7 @@ or download the master branch and include it in your site
 $('input').dynodirection();
 ```
 
-#Dependencies
+## Dependencies
 This is a jQuery plugin so:
 
 * jQuery
