@@ -42,6 +42,7 @@
             }
         }
     };
+
     // Plugin Definition //
     $.fn.dynodirection = function(options){
 
